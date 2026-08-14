@@ -22,7 +22,7 @@ Currently studying for AWS certification and completing a degree in Systems Anal
 ## Projects
 
 - **[Inventory System](https://github.com/SamuelCB92/Inventory-system)** — Full-stack inventory management with low-stock alerts, bilingual UI (EN/PT), and paginated REST API. React + Node/Express + Prisma + PostgreSQL. [Live demo](https://inventory-system-samuel.vercel.app)
-- **[RAG Document Q&A](https://github.com/SamuelCB92/rag)** — Upload text or PDF, ask questions, get grounded answers with source attribution via vector similarity search. .NET 9 + React + OpenAI + pgvector.
+- **[RAG Document Q&A](https://github.com/SamuelCB92/rag)** — Upload text or PDF, ask questions, get grounded answers with source attribution via vector similarity search. .NET 9 + React + OpenAI + pgvector. [Live demo](https://general-rag.vercel.app/)
 - **[Personal Portfolio](https://samuel-bomtempo.vercel.app)** — Personal site and blog built with React 19, TypeScript, and Vite, with an integrated MDX blog.
 
 ---
